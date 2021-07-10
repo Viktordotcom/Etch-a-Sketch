@@ -1,6 +1,8 @@
 # Etch-a-Sketch
 Project part of the Odin Project Curriculum
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://github.com/Viktordotcom/Etch-a-Sketch.git)
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/Viktordotcom/Etch-a-Sketch.git)
+
+
 
 Things I learned from this project:
 1. How to Create DOM elements (Nodes), manipulate their properties and attributes.
